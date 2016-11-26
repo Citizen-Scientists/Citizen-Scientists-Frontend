@@ -1,0 +1,29 @@
+{
+  "name": "Citizen-Scientists-Frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon ./bin/www",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katenorquay/Citizen-Scientists-Frontend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katenorquay/Citizen-Scientists-Frontend/issues"
+  },
+  "homepage": "https://github.com/katenorquay/Citizen-Scientists-Frontend#readme",
+  "dependencies": {
+  "body-parser": "~1.13.2",
+  "express": "~4.13.1",
+  "express-handlebars": "^3.0.0"
+},
+"devDependencies": {
+  "nodemon": "^1.11.0"
+}
+}
