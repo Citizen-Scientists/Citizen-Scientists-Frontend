@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.header {
+  background-image: url('http://www.fishingguides.co.nz/images/sized/images/uploads/entries/Oreti_River-960x600.jpg');
+  background-size: cover;
+  text-align: center;
+  height: 550px;
+  background-position: center;
+}
+
+
+h1 {
+  color: white;
+  margin: 0;
+}
+
+input {
+  width: 200px;
+  height: 70px;
+}
